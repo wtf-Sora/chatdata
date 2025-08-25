@@ -1,5 +1,4 @@
 
-````markdown
 # Bangla + Banglish Casual Chat Data Generator
 
 A **Python-based dataset generator** for creating large-scale **Bangla + Banglish conversational pairs** in a natural, casual style.  
@@ -24,7 +23,7 @@ Clone the repo and install Python (3.8+ recommended).
 ```bash
 git clone https://github.com/wtf-Sora/chatdata
 cd chatdata
-````
+```
 
 No external dependencies required (only Python standard library).
 
@@ -92,7 +91,7 @@ MIT License – free to use, modify, and distribute.
 ---
 
 ## ✨ Author
-[WTF SORA](https://github.com/wtf-Sora)
+[WTF SORA](https://github.com/wtf-Sora)<br>
 Made with ❤️ for chatbot.
 
 ```
